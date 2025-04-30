@@ -32,7 +32,7 @@ function SignupPage() {
         onSubmit={handleSignup}
         className="bg-white p-8 rounded shadow-md w-80"
       >
-        <h2 className="text-2xl font-bold mb-6">Signup</h2>
+        <h2 className="text-2xl font-bold mb-6">Signup pull request</h2>
         <input
           type="text"
           placeholder="Name"
